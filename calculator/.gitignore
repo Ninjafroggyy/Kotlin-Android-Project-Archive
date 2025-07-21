@@ -1,0 +1,26 @@
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!gradlew
+!gradlew.bat
+.gradle/
+local.properties
+
+# IDE files
+*.iml
+.idea/
+!.idea/codeStyles/
+
+# OS and editor metadata
+.DS_Store
+*.log
+
+# Android Studio specific
+.cxx/
+.externalNativeBuild/
+captures/
+
+# Misc cache or auto-generated
+*.apk
+*.ap_
